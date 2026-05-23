@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>../dist/notebook.jar</jar>
+  <outfile>../dist/notebook.exe</outfile>
+  <errTitle>notebook</errTitle>
+  <supportMultipleInstances>false</supportMultipleInstances>
+  <stayAlive>false</stayAlive>
+  <singleInstance>false</singleInstance>
+  <internalConsoleOnError>false</internalConsoleOnError>
+  <classPath />
+  <jreMinVersion>1.8.0</jreMinVersion>
+  <mainClass>project</mainClass>
+  <libraryPath />
+  <downloadUrl />
+  <jreLocation />
+</launch4jConfig>
+
